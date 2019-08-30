@@ -1,3 +1,5 @@
+# [https://github.com/all-in-one-of/lava/blob/master/plans/UI.1.hiplc](https://github.com/all-in-one-of/lava/blob/master/plans/UI.1.hiplc)
+
 # LAVA - Live Asynchronous Visual Architecture
 
 LAVA is a tool to create general purpose native software while allowing every piece to be lock free and asynchronous.
